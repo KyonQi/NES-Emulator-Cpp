@@ -1,2 +1,6 @@
 # NES-Emulator-Cpp
-It's a NES emulator by CPP
+使用Cpp完成的任天堂红白机模拟器，本项目的完整教程欢迎关注我的[个人网站](https://kyonqi.github.io/2024/11/06/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84NES%E6%A8%A1%E6%8B%9F%E5%99%A8-0%EF%BC%9A%E6%80%BB%E8%A7%88/)，不定期更新。
+
+# 进度
+- 2024-11-07，完成日志库的搭建；
+- 2024-11-14，完成CPU总线的搭建；
