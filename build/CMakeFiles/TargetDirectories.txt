@@ -1,3 +1,0 @@
-/home/kyonqi/InternProject/MyNES/build/CMakeFiles/myNES.dir
-/home/kyonqi/InternProject/MyNES/build/CMakeFiles/edit_cache.dir
-/home/kyonqi/InternProject/MyNES/build/CMakeFiles/rebuild_cache.dir

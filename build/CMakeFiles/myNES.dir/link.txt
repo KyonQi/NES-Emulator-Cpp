@@ -1,1 +1,0 @@
-/usr/bin/g++  -g  -rdynamic CMakeFiles/myNES.dir/CPU.cpp.o CMakeFiles/myNES.dir/Log.cpp.o CMakeFiles/myNES.dir/main.cpp.o  -o myNES 
