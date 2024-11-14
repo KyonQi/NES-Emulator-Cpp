@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Log.h
+iostream
+-
+string
+-
+fstream
+-
+memory
+-
+
+/home/kyonqi/InternProject/MyNES/Log.cpp
+Log.h
+/home/kyonqi/InternProject/MyNES/Log.h
+
+/home/kyonqi/InternProject/MyNES/main.cpp
+Log.h
+/home/kyonqi/InternProject/MyNES/Log.h
+
