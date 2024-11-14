@@ -7,6 +7,12 @@
 },
 {
   "directory": "/home/kyonqi/InternProject/MyNES/build",
+  "command": "/usr/bin/g++ -I/home/kyonqi/InternProject/MyNES/include -g -std=gnu++11 -o CMakeFiles/myNES.dir/CPUBus.cpp.o -c /home/kyonqi/InternProject/MyNES/CPUBus.cpp",
+  "file": "/home/kyonqi/InternProject/MyNES/CPUBus.cpp",
+  "output": "CMakeFiles/myNES.dir/CPUBus.cpp.o"
+},
+{
+  "directory": "/home/kyonqi/InternProject/MyNES/build",
   "command": "/usr/bin/g++ -I/home/kyonqi/InternProject/MyNES/include -g -std=gnu++11 -o CMakeFiles/myNES.dir/Log.cpp.o -c /home/kyonqi/InternProject/MyNES/Log.cpp",
   "file": "/home/kyonqi/InternProject/MyNES/Log.cpp",
   "output": "CMakeFiles/myNES.dir/Log.cpp.o"

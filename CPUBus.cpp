@@ -28,9 +28,9 @@ namespace ns {
         if (address < 0x2000) {
             m_RAM[address & 0x07ff] = data;
         } else if (address < 0x6000) {
-            // do nothing here temporarily
-            // related with PPU, registers, etc
+            // do nothing here temporarilytc
         } else if (address < 0x8000) {
+            // related with PPU, registers, e
             // deal with cartridge RAM, i.e., extRAM
             // maybe let mapper manage
         } else {

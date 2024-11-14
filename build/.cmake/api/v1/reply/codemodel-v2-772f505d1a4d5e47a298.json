@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.1"
+						"string" : "3.5"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "myNES::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-myNES-Debug-b8b613bbec59bd611f15.json",
+					"jsonFile" : "target-myNES-Debug-63c2076942b7ca1c7491.json",
 					"name" : "myNES",
 					"projectIndex" : 0
 				}
