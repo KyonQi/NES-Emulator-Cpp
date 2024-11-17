@@ -27,6 +27,11 @@ namespace ns {
             Byte m_r_X; // index X
             Byte m_r_Y; // index Y
             f_P  m_r_PS; // process status
+            
+            // cycles
+            long m_cycles;
+            long m_skip_cycles;
+
 
         public:
             CPU(std::shared_ptr<CPUBus> bus);
